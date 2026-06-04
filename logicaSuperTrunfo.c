@@ -67,7 +67,7 @@ int main() {
 
     	//Cadastro Carta 1
     	printf("Jogador 1\n");
-    	printf("Carta 1:");
+    	printf("Carta 1:\n");
    
     	printf("Estado: ");
     	scanf(" %c", &estado1); // estado representado por uma letra de A a H
